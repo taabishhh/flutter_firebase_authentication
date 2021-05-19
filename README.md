@@ -3,7 +3,7 @@
 
 A Flutter based application for user login and registration with email and Google Sign-In using Firebase.
 
-## <pre>   Registration                 Login</pre>        
+## <pre>   Registration                          Login</pre>        
 
 <!-- <p>![reset]()
 
@@ -17,14 +17,14 @@ A Flutter based application for user login and registration with email and Googl
 </p> -->
 <p>
   <img src="https://user-images.githubusercontent.com/45647675/118869357-ebad2c00-b902-11eb-8d77-046cc8236d7f.gif" width="250" title="hover text">
-  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
   <img src="https://user-images.githubusercontent.com/45647675/118869109-98d37480-b902-11eb-8f3a-e3cb17101dc4.gif" width="250" title="hover text">
 </p>
 
-## <pre>  Google Sign-In            Reset Password </pre>
+## <pre>  Google Sign-In                     Reset Password </pre>
 <p>
   <img src="https://user-images.githubusercontent.com/45647675/118869664-4f375980-b903-11eb-9b53-2b5347210d37.gif" width="250" title="hover text">
-  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
   <img src="https://user-images.githubusercontent.com/45647675/118869431-05e70a00-b903-11eb-922b-be2b497214b6.gif" width="250" title="hover text">
 <p>
 
