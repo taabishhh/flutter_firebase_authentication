@@ -3,6 +3,7 @@
 A Flutter based application for user login and registration with email and Google Sign-In using Firebase.
 
 ## 
+![alt text](https://github.com/taabishhh/flutter_firebase_authentication/sample/image.jpg?raw=true)
 
 
 
