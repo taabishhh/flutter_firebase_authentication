@@ -2,10 +2,26 @@
 
 A Flutter based application for user login and registration with email and Google Sign-In using Firebase.
 
-## 
-![alt text](https://github.com/taabishhh/flutter_firebase_authentication/sample/home.jpg?raw=true)
+## <pre> Registration             Login             Google Sign-In        Reset Password </pre>
 
-
+<!-- <p>
+  <img src="sample/login.png" width="200" title="hover text">
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+  <img src="sample/register.png" width="200" title="hover text">
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+  <img src="sample/home.png" width="200" title="hover text">
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+  <img src="sample/reset.png" width="200" title="hover text">
+</p> -->
+<p>
+  <img src="sample/register.gif" width="200" title="hover text">
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+  <img src="sample/login.gif" width="200" title="hover text">
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+  <img src="sample/googlesignin.gif" width="200" title="hover text">
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+  <img src="sample/reset.gif" width="200" title="hover text">
+<p>
 
 A few resources to get you started if this is your first Flutter project:
 
