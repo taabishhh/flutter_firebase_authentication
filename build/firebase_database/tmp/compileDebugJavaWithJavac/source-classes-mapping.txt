@@ -1,0 +1,14 @@
+io/flutter/plugins/firebase/database/BuildConfig.java
+ io.flutter.plugins.firebase.database.BuildConfig
+io/flutter/plugins/firebase/database/MethodCallHandlerImpl.java
+ io.flutter.plugins.firebase.database.MethodCallHandlerImpl
+ io.flutter.plugins.firebase.database.MethodCallHandlerImpl$1
+ io.flutter.plugins.firebase.database.MethodCallHandlerImpl$1$1
+ io.flutter.plugins.firebase.database.MethodCallHandlerImpl$1$1$1
+ io.flutter.plugins.firebase.database.MethodCallHandlerImpl$1$2
+ io.flutter.plugins.firebase.database.MethodCallHandlerImpl$DefaultCompletionListener
+ io.flutter.plugins.firebase.database.MethodCallHandlerImpl$EventObserver
+io/flutter/plugins/firebase/database/FirebaseDatabasePlugin.java
+ io.flutter.plugins.firebase.database.FirebaseDatabasePlugin
+io/flutter/plugins/firebase/database/FlutterFirebaseAppRegistrar.java
+ io.flutter.plugins.firebase.database.FlutterFirebaseAppRegistrar
