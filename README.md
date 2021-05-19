@@ -2,7 +2,7 @@
 
 A Flutter based application for user login and registration with email and Google Sign-In using Firebase.
 
-## <pre>Registration             Login</pre>        
+## <pre>Registration              Login</pre>        
 
 <!-- <p>
   <img src="sample/login.png" width="200" title="hover text">
@@ -21,7 +21,6 @@ A Flutter based application for user login and registration with email and Googl
 
 ## <pre>Google Sign-In        Reset Password </pre>
 <p>
-  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
   <img src="sample/googlesignin.gif" width="200" title="hover text">
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
   <img src="sample/reset.gif" width="200" title="hover text">
